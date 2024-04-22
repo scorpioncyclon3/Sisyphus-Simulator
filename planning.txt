@@ -1,0 +1,27 @@
+PERMANENT UPGRADES:
+Strength Training: Increases the player's overall strength, allowing them to push the boulder faster.
+Stamina Training: Enhances the player's stamina, reducing the rate at which exhaustion builds up.
+Endurance Training: Improves the player's endurance, increasing the maximum threshold for exhaustion.
+Boulder Value Increase: Increases the value of the boulder, resulting in greater profits when reaching hills.
+Maximum Platform: Clears out the path to allow the boulder to be pushed further.
+Music: Adds another song to the background audio.
+
+TEMPORARY BONUSES:
+Energy Drink: Provides a boost of energy that increases speed and stamina for a short duration.
+Double Sisyphus: Summons a second Sisyphus that automatically rolls up the hill.
+Teleport: Allows the player to instantly teleport to a higher section of the hill, skipping a portion of the uphill journey.
+Auto-Roller: Automates the pushing of the boulder, allowing it to roll up the hill without player input for a limited time.
+Score Booster: Multiplies the points earned per hill reached by an even higher multiplier.
+Hill Flattener: Temporarily smoothens the path up the hill, reducing the resistance the boulder faces.
+
+SCRAPPED IDEAS:
+Speed Enhancement: Increases the player's movement speed, allowing them to navigate the hill more quickly.
+Efficiency Upgrade: Decreases the amount of energy expended when pushing the boulder, making the player more efficient.
+Boulder Size Increase: Increases the size of the boulder, resulting in higher scores when reaching new hills.
+Score Multiplier: Boosts the points earned per hill reached, allowing the player to accumulate points faster.
+Money Multiplier: Increases the amount of in-game currency earned, allowing the player to purchase upgrades more quickly.
+Time Freeze: Temporarily slows the game, giving the player more time to react.
+Double Sisyphus: Summons a second Sisyphus that the player can control simultaneously, effectively doubling their pushing power.
+Auto Roller: Automates the pushing of the boulder, allowing it to roll up the hill without player input for a limited time.
+Bouncer: Adds a bounce effect to the boulder, allowing it to jump over certain obstacles or gain extra height when rolling up the hill.
+Time Extension: Extends the time limit for each level, giving the player more time to reach higher platforms and achieve higher scores.
