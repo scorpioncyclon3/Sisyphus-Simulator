@@ -1,0 +1,13 @@
+Code:
+https://www.w3schools.com/python/python_classes.asp
+https://www.geeksforgeeks.org/pygame-drawing-objects-and-shapes/
+https://www.geeksforgeeks.org/how-to-rotate-and-scale-images-using-pygame/
+https://stackoverflow.com/questions/4183208/how-do-i-rotate-an-image-around-its-center-using-pygame
+https://stackoverflow.com/questions/16730339/python-add-item-to-the-tuple
+https://stackoverflow.com/questions/7746263/how-can-i-play-an-mp3-with-pygame
+
+Music:
+https://www.youtube.com/watch?v=jcYvDZKLQJ0
+
+Sisyphus:
+https://www2.hawaii.edu/~freeman/courses/phil360/16.%20Myth%20of%20Sisyphus.pdf
